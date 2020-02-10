@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://tyler:12345@cluster0-qwto8.mongodb.net/test?retryWrites=true&w=majority",
-  "baseurl": "http://localhost:3001"
+  "baseUrl": "http://localhost:3001"
 }
